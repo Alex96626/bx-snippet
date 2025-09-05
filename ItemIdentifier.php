@@ -17,4 +17,6 @@ foreach ($parents as $parent) {
 }
 // $this->SetVariable('leadID', $myEntityId);
 print_r($myEntityId);
+
+echo 'test';
 ?>
